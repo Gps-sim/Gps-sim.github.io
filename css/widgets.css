@@ -26,8 +26,8 @@
 }
 
 .painting-frame .painting-frame-image {
-  box-shadow: 0 0px 4px rgba(0, 0, 0, 0.32), 0 0px 10px rgba(0, 0, 0, 0.23);
-  border: 8px solid white;
+  box-shadow: 0 0px 4px rgba(159, 209, 126, 0.32), 0 0px 10px rgba(127, 206, 127, 0.23);
+  border: 8px solid rgb(109, 33, 33);
   border-radius: 0;
   max-height: 600px;
   max-width: 100%;
@@ -278,8 +278,8 @@
 
 .custom-radio [type="radio"]:checked+label {
   color: white;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #4ada45;
+  border-color: #9ab9da;
 }
 
 .custom-radio [type="radio"]+label:before {
@@ -298,7 +298,7 @@
   content: '';
   width: 8px;
   height: 8px;
-  background: #005cbf;
+  background: #c3d8e0;
   position: absolute;
   top: 10px;
   left: 14px;
@@ -581,7 +581,7 @@
 }
 
 .custom-dialog-flat .ui-dialog-buttonpane .ui-dialog-buttonset .ui-button.ui-action-button {
-  background-color: #007bff;
+  background-color: #3e7462;
   border: 1px solid #007bff;
 }
 

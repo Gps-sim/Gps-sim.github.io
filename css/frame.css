@@ -189,7 +189,7 @@ hr {
 .content ul a,
 .content ol a {
   text-decoration: none;
-  color: #005cbf;
+  color: #7ae291;
 }
 
 .content p a:hover,
@@ -211,7 +211,7 @@ hr {
   font-weight: 300;
   line-height: 1.5;
   overflow-x: auto;
-  background-color: #005cbf;
+  background-color: #50a7b6;
   display: flex;
 }
 
